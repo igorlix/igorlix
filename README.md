@@ -4,9 +4,9 @@ Sou um estudante de Engenharia da Computação na UPE apaixonado por tecnologia.
 
 ## Sobre
 
-Trabalho como estagiário em Engenharia de Dados na FDM Data, uma consultoria especializada em soluções de dados. No dia a dia, construo pipelines, desenvolvo agentes de IA para automatizar processos e ajudo empresas a extrair valor de suas informações.
+Trabalho como estagiário em Engenharia de Dados na FDM Data, uma consultoria especializada em soluções de dados. Me dedico a construir pipelines para automatizar processos, desenvolvo agentes de IA e ajudo empresas a extrair valor de suas informações.
 
-Além de código, também me preocupo bastante com segurança e busco me especializar na área.
+Além de código, também me preocupo bastante com segurança e busco me especializar na área de cibersegurança.
 
 ---
 
