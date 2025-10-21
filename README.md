@@ -14,7 +14,7 @@ Além de código, também me preocupo bastante com segurança e busco me especia
 
 ---
 
-## Stack Tecnológica
+## Stacks
 
 ### Linguagens de Programação
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -41,6 +41,19 @@ Além de código, também me preocupo bastante com segurança e busco me especia
 
 ---
 
+## Experiência Profissional
+
+**Estagiário em Engenharia de Dados** | FDM Data (Consultoria de Dados)  
+*Julho 2025 - Presente*
+
+Na FDM, eu trabalho com diversos clientes desenvolvendo soluções de dados que realmente fazem diferença:
+
+- Construção de pipelines de dados usando Databricks e Snowflake
+- Desenvolvimento de agentes de IA para automatizar análises e processos de negócio
+- Otimização de queries e modelagem de dados 
+
+---
+
 ## Estudos
 
 ### Engenharia de Dados
@@ -59,19 +72,6 @@ Além de código, também me preocupo bastante com segurança e busco me especia
 - LGPD
 - Monitoramento e resposta a incidentes
 - Blue Team
-
----
-
-## Experiência Profissional
-
-**Estagiário em Engenharia de Dados** | FDM Data (Consultoria de Dados)  
-*Julho 2025 - Presente*
-
-Na FDM, eu trabalho com diversos clientes desenvolvendo soluções de dados que realmente fazem diferença:
-
-- Construção de pipelines de dados usando Databricks e Snowflake
-- Desenvolvimento de agentes de IA para automatizar análises e processos de negócio
-- Otimização de queries e modelagem de dados 
 
 ---
 
