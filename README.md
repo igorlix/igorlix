@@ -1,8 +1,6 @@
-# Olá! Sou o Igor
+# Oii! 
 
-**Engenharia da Computação** | **Data Engineering** | **Python** | **Java** | 
-
-Estudante de Engenharia da Computação na UPE e apaixonado por tecnologia.
+Sou um estudante de Engenharia da Computação na UPE apaixonado por tecnologia.
 
 ---
 
@@ -16,7 +14,7 @@ Além de código, também me preocupo bastante com segurança e busco me especia
 
 ## Stacks
 
-### Linguagens de Programação
+### Linguagens 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -92,25 +90,6 @@ Rede social para estudantes da UPE com servidor web.
 ### Modelo de Previsão Credit Score
 **Python & Machine Learning**  
 Desenvolvi com meus colegas um modelo para prever a inadimplencia de clientes de cartão de crédito na disciplina de Machine Learning.
-
-
----
-
-## Cursos e Certificados 
-
-**Python - Ciência de Dados** | Udemy (26,5h)  
-Curso focado em Pandas e Machine Learning | Foi onde comecei a me apaixonar por dados
-
-**Java Completo** | Udemy (54h)  
-Do básico ao Spring Boot | muito código e projetos práticos
-
-**Gerenciamento de Ameaças Cibernéticas** | CESAR School (16h)  
-Aprendi sobre vulnerabilidades, gestão de riscos e resposta a incidentes
-
-**Defesa de Rede** | ICT SENAC/PE (27h)  
-Monitoramento de redes e análise de alertas de segurança
-
-**Monitor de Algoritmos e Estruturas de Dados** | UPE (2023.2)  
 
 ---
 
