@@ -91,14 +91,6 @@ Desenvolvi com meus colegas um modelo para prever a inadimplencia de clientes de
 
 ---
 
-## Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igorlix&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorlix&layout=compact&theme=tokyonight)
-
----
-
 ## Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igorlix)
