@@ -1,4 +1,4 @@
-# Oii! 
+# Igor Lixandrão
 
 Sou um estudante de Engenharia da Computação na UPE apaixonado por tecnologia.
 
